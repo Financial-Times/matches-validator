@@ -2,7 +2,7 @@
   "name": "matches-validator",
   "version": "1.0.0",
   "authors": [
-    "James Nicholls <james.nicholls@ft.com>"
+    "<omapplications@ft.com>"
   ],
   "description": "Validates whether two HTML form elements the same value",
   "main": "src/MatchesValidator.js",

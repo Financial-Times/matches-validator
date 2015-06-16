@@ -10,7 +10,7 @@
     "type": "git",
     "url": "http://James.Nicholls@git.svc.ft.com:8080/scm/~james.nicholls/matches-validator.git"
   },
-  "author": "James Nicholls <james.nicholls@ft.com>",
+  "author": "<omapplications@ft.com>",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.0.0",
