@@ -1,0 +1,23 @@
+{
+  "name": "matches-validator",
+  "version": "1.0.0",
+  "authors": [
+    "James Nicholls <james.nicholls@ft.com>"
+  ],
+  "description": "Validates whether two HTML form elements the same value",
+  "main": "src/MatchesValidator.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

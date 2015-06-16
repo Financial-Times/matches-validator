@@ -2,7 +2,7 @@
   "name": "matches-validator",
   "version": "1.0.0",
   "description": "Validates whether two HTML form elements have the same value",
-  "main": "index.js",
+  "main": "src/MatchesValidator.js",
   "scripts": {
     "test": "./node_modules/karma/bin/karma start --single-run"
   },
